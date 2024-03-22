@@ -1,5 +1,6 @@
 import java.io.Serializable;
 
+//MB
 public class RegistrodeVacuna implements Serializable {
     //La clase RegistrodeVacuna hereda de la clase Serializable del paquete de java
     //que sirve para crear de un objeto una secuencia de bytes que puede ser leido
